@@ -1,6 +1,8 @@
 # drf-api-permissions-postgres
 ## Lab 32
-#### Most Recent PR: https://github.com/Seon2020/drf-api-permissions-postgres/pull/1
+#### Most Recent PR: https://github.com/Seon2020/drf-api-permissions-postgres/pull/2
+- Check snippets file for proof of boilerplate.
+
 #### Include steps to manually test using httpie:
 - run poetry add httpie
 - run docker-compose up -d
