@@ -1,6 +1,6 @@
 # drf-api-permissions-postgres
-## Lab 32
-#### Most Recent PR: https://github.com/Seon2020/drf-api-permissions-postgres/pull/2
+## Lab 32-34
+#### Most Recent PR: https://github.com/Seon2020/drf-api-permissions-postgres/pull/3
 - Check snippets file for proof of boilerplate.
 
 #### Include steps to manually test using httpie:
